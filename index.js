@@ -36,4 +36,4 @@ function swapInput(){
     currencyConvertor();
 }
 
-
+currencyConvertor();
